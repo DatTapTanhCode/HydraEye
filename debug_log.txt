@@ -1,0 +1,968 @@
+[05:43:12] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:13] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:13] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:13] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:18] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:18] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:18] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:18] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:18] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:18] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:18] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:18] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:19] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:19] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:19] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:19] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:19] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:19] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:19] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:19] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:20] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:20] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:20] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:20] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:20] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:20] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:21] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:21] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:21] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:21] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:21] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:21] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:21] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:22] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:22] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:22] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:22] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:22] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:22] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:22] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:23] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:23] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:23] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:23] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:23] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:23] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:23] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:24] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:24] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:24] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:24] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:24] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:24] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:24] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:25] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:25] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:25] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:25] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:25] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:25] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:25] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:25] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:26] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:26] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:26] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:26] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:26] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:26] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:26] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:27] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:27] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:27] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:27] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:27] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:27] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:27] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:27] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:28] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:28] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:28] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:28] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:28] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:28] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:28] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:28] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:29] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:29] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:29] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:29] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:29] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:29] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:29] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:30] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:30] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:30] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:30] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:30] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:30] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:30] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:30] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:31] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:31] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:31] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:31] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:31] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:31] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:31] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:31] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:32] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:32] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:32] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:32] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:32] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:32] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:32] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:32] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:33] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:33] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:33] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:33] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:33] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:33] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:33] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:34] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:34] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:34] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:34] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:34] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:34] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:34] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:34] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:35] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:35] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:35] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:35] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:35] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:35] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:35] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:35] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:35] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:36] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:36] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:36] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:36] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:36] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:36] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:36] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:37] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:37] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:37] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:37] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:37] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:37] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:37] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:37] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:38] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:38] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:38] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:38] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:38] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:38] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:38] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:38] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:39] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:39] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:39] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:39] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:39] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:39] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:39] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:39] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:40] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:40] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:40] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:40] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:40] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:40] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:40] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:41] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:41] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:41] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:41] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:41] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:41] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:41] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:42] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:42] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:42] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:42] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:42] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:42] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:42] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:42] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:43] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:43] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:43] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:43] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:43] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:43] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:43] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:43] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:44] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:44] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:44] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:44] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:44] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:44] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:44] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:44] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:45] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:45] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:45] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:45] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:45] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:45] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:45] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:46] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:46] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:46] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:46] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:46] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:46] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:46] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:46] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:47] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:47] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:47] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:47] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:47] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:47] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:47] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:48] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:48] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:48] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:48] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:48] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:48] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:48] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:49] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:49] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:49] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:49] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:49] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:49] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:49] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:49] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:50] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:50] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:50] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:50] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:50] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:50] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:50] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:51] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:51] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:51] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:51] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:51] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:51] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:51] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:51] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:52] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:52] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:52] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:52] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:52] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:52] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:52] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:53] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:53] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:53] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:53] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:53] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:53] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:53] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:53] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:54] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:54] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:54] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:54] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:54] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:54] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:54] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:55] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:55] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:55] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:55] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:55] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:55] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:55] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:55] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:56] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:56] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:56] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:56] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:56] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:56] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:56] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:57] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:57] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:57] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:57] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:57] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:57] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:57] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:57] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:58] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:58] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:58] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:58] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:58] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:58] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:58] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:59] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:59] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:59] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:59] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:59] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:59] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:59] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:43:59] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:00] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:00] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:00] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:00] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:00] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:00] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:00] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:01] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:01] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:01] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:01] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:01] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:01] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:01] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:02] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:02] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:02] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:02] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:02] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:02] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:02] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:03] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:03] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:03] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:03] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:03] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:03] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:03] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:04] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:04] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:04] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:04] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:04] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:04] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:04] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:05] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:05] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:05] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:05] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:05] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:05] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:05] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:05] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:06] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:06] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:06] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:06] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:06] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:06] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:06] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:07] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:07] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:07] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:07] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:07] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:07] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:07] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:08] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:08] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:08] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:08] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:08] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:08] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:08] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:09] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:09] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:09] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:09] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:09] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:09] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:09] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:10] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:10] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:10] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:10] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:10] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:10] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:10] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:11] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:11] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:11] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:11] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:11] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:11] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:11] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:12] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:12] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:12] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:12] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:12] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:12] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:13] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:13] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:13] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:13] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:13] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:13] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:13] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:13] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:14] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:15] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:16] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:17] detect_gauge_reading called for camera CAM-001
+Check Check
+[05:44:17] detect_gauge_reading called for camera CAM-001
+Check Check

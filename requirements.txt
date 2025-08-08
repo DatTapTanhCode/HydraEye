@@ -1,0 +1,11 @@
+flask
+numpy
+opencv-python
+pillow
+requests
+ultralytics
+gunicorn
+python-dotenv
+waitress
+scikit-learn
+openai
